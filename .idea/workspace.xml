@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c906481-1e57-460e-97de-3095d4582b74" name="Changes" comment="Entdecken Seite. &#10;Übernehmen der Nav-bar&#10;Flexbox, Bilddesign mit Bildern und Beschreibung&#10;Einfügen von Bewertungen unter den Bildern">
+    <list default="true" id="7c906481-1e57-460e-97de-3095d4582b74" name="Changes" comment="Index mit Entdecken sowohl via button, als auch viele navbar verbunden">
+      <change afterPath="$PROJECT_DIR$/Details_Malibu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Entdecken.html" beforeDir="false" afterPath="$PROJECT_DIR$/Entdecken.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +79,13 @@
       <workItem from="1680364831798" duration="4849000" />
       <workItem from="1680369696342" duration="567000" />
       <workItem from="1680375729533" duration="8590000" />
-      <workItem from="1680416714011" duration="1353000" />
+      <workItem from="1680416714011" duration="1564000" />
+      <workItem from="1680420708750" duration="132000" />
+      <workItem from="1680420854149" duration="1000" />
+      <workItem from="1680444967330" duration="132000" />
+      <workItem from="1680454951703" duration="603000" />
+      <workItem from="1680496996435" duration="42000" />
+      <workItem from="1680497093404" duration="3063000" />
     </task>
     <task id="LOCAL-00001" summary="White bug deleted">
       <created>1680182904867</created>
@@ -160,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680416228083</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Index mit Entdecken sowohl via button, als auch viele navbar verbunden">
+      <created>1680418116393</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680418116393</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +188,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Rene" />
+                        <option value="origin/Rene" />
                       </list>
                     </value>
                   </entry>
@@ -199,6 +210,7 @@
     <MESSAGE value="Bildtext und Entdecken Button&#10;Transition effekte Button und Navbar" />
     <MESSAGE value="hover effekt über der Bildergalerie @homepage" />
     <MESSAGE value="Entdecken Seite. &#10;Übernehmen der Nav-bar&#10;Flexbox, Bilddesign mit Bildern und Beschreibung&#10;Einfügen von Bewertungen unter den Bildern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Entdecken Seite. &#10;Übernehmen der Nav-bar&#10;Flexbox, Bilddesign mit Bildern und Beschreibung&#10;Einfügen von Bewertungen unter den Bildern" />
+    <MESSAGE value="Index mit Entdecken sowohl via button, als auch viele navbar verbunden" />
+    <option name="LAST_COMMIT_MESSAGE" value="Index mit Entdecken sowohl via button, als auch viele navbar verbunden" />
   </component>
 </project>
