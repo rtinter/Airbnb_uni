@@ -96,6 +96,7 @@ section{
     flex-wrap: wrap;
     justify-content: center;
     cursor: pointer;
+    max-width: 700px;
 }
 
 .bildergalerie img{
